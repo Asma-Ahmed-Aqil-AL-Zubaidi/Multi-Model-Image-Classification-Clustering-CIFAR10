@@ -8,7 +8,7 @@ A complete deep learning pipeline for image classification and clustering on CIF
 - Autoencoder for Unsupervised Feature Extraction
 - Grad-CAM for Visual Explainability
 
-## 🗃 Dataset
+##  Dataset
 CIFAR-10: 60,000 32×32 color images across 10 classes  
 - Training: 50,000 images  
 - Testing: 10,000 images
